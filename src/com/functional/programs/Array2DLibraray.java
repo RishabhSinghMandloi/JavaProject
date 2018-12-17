@@ -3,13 +3,13 @@ import com.fucntion.utilities.*;
 /*
  * @Purpose:In this class we display the matrix in form of integer and double values
  * @author Rishabh
- * @version 1.0
+ * @version 1.8
  * @since 12-12-2018
  */
 public class Array2DLibraray {
     public static void main(String[] args) {
     	/*
-    	 * this method is used for reading integer type value in our matric
+    	 * this method is used for reading integer type value in our matrix
     	 */
 		int matrix[][]=Utility.readMatrix();
 		/*
