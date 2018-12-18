@@ -1,7 +1,5 @@
 package com.alogorithm.programs;
-
 import com.fucntion.utilities.Utility;
-
 public class MonthlyPayment {
     public static void main(String[] args) {
 	  double amount=Double.parseDouble(args[0]);  
